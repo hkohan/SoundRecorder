@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.android/build-cache/efb73af129ec7bd2c034d39f16941081839df881/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15ebf37e2dc7047e993afdfb308610e171bcea1b">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/classes_3516fdea07dd156abef5d9a5b11cd79dbbe0ae41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.android/build-cache/fb55ab181d932bfc15414ba3ab6e2f3aa4a6d75c/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3_9266f05429736b9e3bd8736ed7ef570f3df6de71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.android/build-cache/099b10fc0602452febc425cbd76fa0acb75d1a5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee9ae2b87d57a33a7381c75d54db12bdf2995656">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/classes_cc54d28ce2db850d4ce68590fd4cf1fb9b2471fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/library-2.4.0_2a5732fa36526ea795d0a18f9bd66a2c616a16f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.android/build-cache/fb55ab181d932bfc15414ba3ab6e2f3aa4a6d75c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/classes_b70b2badce0e67d786daddfc77c1aecc1551a356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.android/build-cache/ff746285e6f2de760be81a0b27b61ef88739a64f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/classes_bbf179992c72bb66f158f91d025ff55f700dd798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.android/build-cache/09dbfae1b8cc3306e1f0879718a8a3a64a1f8a15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/classes_5b4dc24117558cd7bc01e3036f90a0f0def4d889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3_27b4f28a793bddafd71d3a4575806a6c315bf41a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crisis/.android/build-cache/1f20151e8bd5d8a934f9491652262ed754c31740/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/pre-dexed/release/classes_da8b8a4f5a70177b01253cbfe6c108264654253a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8eeb06888f777ed7e2674a9e2f61be29fba64919">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea1468dbdf5c69d9a320a762c1ffedcd21fe8866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/crisis/AndroidStudioProjects/SoundRecorder-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_75b114ca560674daa5a660d2f9879beb2db3c847/classes.dex" />
+    </item>
+
+</items>
